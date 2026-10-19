@@ -1,0 +1,7 @@
+Insight Analisis Performa Akademik Siswa
+====================================
+1. Rata-rata nilai gabungan (average_score) pada kelompok dengan test preparation course 'completed' adalah 72.67, sedangkan kelompok 'none' adalah 65.04.
+2. Rata-rata nilai gabungan tertinggi berdasarkan pendidikan orang tua terjadi pada 'master's degree' yaitu 73.60. Rata-rata terendah terjadi pada 'high school' yaitu 63.10.
+3. Korelasi paling kuat di antara skor matematika, membaca, dan menulis adalah antara 'reading score' dan 'writing score' dengan nilai 0.95.
+
+Catatan: hasil ini menunjukkan pola asosiasi dalam data, bukan bukti sebab-akibat. Perbedaan rata-rata dan korelasi perlu diinterpretasikan secara hati-hati dan tetap didukung konteks data serta analisis lanjutan jika diperlukan.
